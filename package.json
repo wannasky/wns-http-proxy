@@ -1,0 +1,21 @@
+{
+  "name": "ws-http-proxy",
+  "version": "1.0.0",
+  "description": "一个node代理服务器",
+  "keywords": [
+    "node",
+    "http",
+    "proxy"
+  ],
+  "author": "wannasky",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wannasky/wns-http-proxy"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "colors": "^1.1.2",
+    "mime": "^2.2.0"
+  }
+}
