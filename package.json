@@ -1,6 +1,6 @@
 {
   "name": "wns-http-proxy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "一个node代理服务器",
   "keywords": [
     "node",
