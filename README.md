@@ -5,7 +5,7 @@ wns-http-proxy
 
 ### Installation
 
-`npm install http-proxy --save`
+`npm install wns-http-proxy --save`
 
 ### Use Cases
 
