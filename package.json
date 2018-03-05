@@ -16,6 +16,7 @@
   "devDependencies": {},
   "dependencies": {
     "colors": "^1.1.2",
-    "mime": "^2.2.0"
+    "mime": "^2.2.0",
+    "zlib": "^1.0.5"
   }
 }
